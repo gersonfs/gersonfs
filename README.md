@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Este documento está em fase de rascunho, estou vendo ainda como organizar melhor tudo sobre mim 😊. Afinal, são 18 anos como empresário responsável por todo o ciclo de vida de diversos softwares e todas tarefas relacionadas de gerenciar uma empresa.
 
-Minhas áreas de interessa são Arquitetura e Engenharia de Software. 
+Minhas áreas de interesse atualmente são Arquitetura e Engenharia de Software. 
 Também gosto de tudo relacionado ao ciclo de desenvovimento de software, desde o hardware que irá hospedar a solução, o sistema operacional, rede, DNS, servidores web e banco de dados, análise, projeto, programação, deploy e manutenção de software.
 Entendo que o profissional precisa ter conhecimentos em tudo que que envolve o software, não somente a arquitetura e programação, pois muitos problemas do dia a dia envolvem soluções que não tem relação com programação.
 
@@ -28,14 +28,14 @@ Selecionamos estudantes da área da programação e faço a mentoria deles. Muit
 Sou responsável pela organização e o roteamento das tarefas no time, de acordo com a especialização de cada um.
 
 
-#### Tecnologias que uso atualmente
-PHP, MySQL, JavaScript, Github Actions, 
+#### 🛠️ Ferramentas que uso atualmente
+PHP, MySQL, JavaScript, Github Actions, XDebug, PHPUnit, Cypress, PHPStan, PHPCS, Linux, RectorPHP, CPanel, CloudLinux, Zabbix, SNMP, CakePHP, Wordpress, Docker, WSL 2 
 
 #### Princípios que seguimos no desenvolvimento
 Tudo que se entende ser moderno e funcional nos dias atuais:
 TDD, DDD, SOLID, DRY, KISS, YAGNI, KANBAN, AGILE, CI/CD
 
-#### Um pouco da minha história
+#### 📖 Um pouco da minha história
 Sou programador profissional desde 2005, onde criei meu primeiro site totalmente dinâmico usando HTML, CSS, JavaScript, PHP e MySQL. 
 Era um site para um grupo de motoqueiros que publicava fotos dos seus encontros semanais.
 Aprendi HTML e CSS desde 2003 onde aprendi de forma auto-didata para desenvolver um site estático com informações sobre o descontinuado Macromedia Flash.
