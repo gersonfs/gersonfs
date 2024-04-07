@@ -29,7 +29,7 @@ Sou responsável pela organização e o roteamento das tarefas no time, de acord
 
 
 #### 🛠️ Ferramentas que uso atualmente
-PHP, MySQL, JavaScript, Github Actions, XDebug, PHPUnit, Cypress, PHPStan, PHPCS, Linux, RectorPHP, CPanel, CloudLinux, Zabbix, SNMP, CakePHP, Wordpress, Docker, WSL 2 
+PHP, MySQL, JavaScript, Github Actions, XDebug, PHPUnit, GIT, Bash, ssh, Cypress, PHPStan, PHPCS, Linux, RectorPHP, CPanel, CloudLinux, Zabbix, SNMP, CakePHP, Wordpress, Docker, WSL 2 
 
 #### Princípios que seguimos no desenvolvimento
 Tudo que se entende ser moderno e funcional nos dias atuais:
